@@ -19,8 +19,7 @@
   "dependencies": {
     "@middy/core": "^2.5.3",
     "@middy/http-json-body-parser": "^2.5.3",
-    "esbuild": "^0.14.28",
-    "wf-utils": "https://wf-dev-root.s3.ap-south-1.amazonaws.com/ci/artifacts/jobs/wf-utils-nodejs/new-features/4/wf-utils-1.0.0.tgz"
+    "esbuild": "^0.14.28"
   },
   "devDependencies": {
     "@serverless/typescript": "^2.23.0",
